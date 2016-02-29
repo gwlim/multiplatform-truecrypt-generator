@@ -1,0 +1,1 @@
+genisoimage -o tc.iso -V "TrueCrypt v7.1a" -A "TrueCrypt v7.1a" -gid 65534 -hide-list hide-rockridge.txt -hide-joliet-list hide-joliet.txt -hide-hfs-list hide-hfs.txt -copyright License.txt -lJR -hfs -probe ./TrueCrypt

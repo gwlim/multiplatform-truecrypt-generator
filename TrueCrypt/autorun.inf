@@ -1,0 +1,5 @@
+[autorun]
+action=Run TrueCrypt
+open=TrueCrypt.exe
+icon=TrueCrypt.ico
+label=TrueCrypt v7.1a

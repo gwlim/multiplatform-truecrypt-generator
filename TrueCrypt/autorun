@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ `getconf LONG_BIT` = "64" ]
+then
+    exec ./TrueCrypt.linux/truecrypt_amd64 &
+else
+    exec ./TrueCrypt.linux/truecrypt_x86 &
+fi

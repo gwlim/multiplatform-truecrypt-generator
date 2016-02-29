@@ -1,0 +1,8 @@
+autorun
+autorun.inf
+TrueCrypt.exe
+TrueCrypt Format.exe
+TrueCrypt.ico
+TrueCrypt.linux
+truecrypt.sys
+truecrypt-x64.sys

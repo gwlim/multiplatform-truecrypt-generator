@@ -1,0 +1,4 @@
+autorun
+TrueCrypt.app
+TrueCrypt.linux
+
